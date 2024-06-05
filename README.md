@@ -1,4 +1,14 @@
-# Pulumi Native Provider Boilerplate
+# Pulumi LambdaLabs Native
+
+This is a new project to create a Pulumi provider for LambdaLabs,  `The GPU Cloud for AI` ([lambdalabs.com](https://lambdalabs.com/)).
+
+Contributions are welcome! I (@surfingdoggo) am way out of my comfort zone on this one, so please join in and tell me how I'm doing it all wrong :b 
+
+@elct9620 made a [Terraform provider](https://github.com/elct9620/terraform-provider-lambdalabs) for LambdaLabs that is probably going to be useful.
+
+Expect a slow beginning to this project 🙃
+
+## Boilerplate repo/starting point
 
 This repository is a boilerplate showing how to create and locally test a native Pulumi provider.
 
